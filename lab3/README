@@ -1,0 +1,9 @@
+To build the project do the foloowing:
+
+1.	Login to ecelinux. 
+2.	Open the src folder in the terminal window.
+3.	Type make
+4.	The program builds and should have 3 exec files: produce_process, produce_thread, and consume
+5.	To test process way, type "./produce_process <N> <B> <P> <C>"
+6.	To test thread way, type "./produce_thread <N> <B> <P> <C>"
+7.	The output is displayed
